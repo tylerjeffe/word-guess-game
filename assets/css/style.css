@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: black;
+    color: whitesmoke;
+}
+.title{
+    font-size: 40px;
+    color: red;
+}
+.jumbotron{
+    background-color: aqua;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+}
+.choices{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:silver;
+}
